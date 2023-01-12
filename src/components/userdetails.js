@@ -5,7 +5,7 @@ function UserDatas(props) {
     <div className={classes.userdetails}>
       <div>
         <span className={classes.username}>Victor Crest</span>
-        <span>26</span>
+        <span className={classes.age}>26</span>
       </div>
       <div className={classes.location}>
         <span>London</span>

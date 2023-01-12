@@ -3,6 +3,10 @@
   text-align: center;
 }
 
+.age {
+margin-left: 0.5rem;
+}
+
 .username {
   font-weight: 700;
   color: hsl(229, 23%, 23%);
