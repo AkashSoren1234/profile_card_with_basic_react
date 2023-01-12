@@ -1,0 +1,5 @@
+.underline {
+  background-color: hsl(0, 0%, 59%);
+  height: 0.01rem;
+  width: 100%;
+}

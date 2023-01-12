@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+img {
+  width: 100%;
+}
+
+
+body {
+  position: relative;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: url("../public/images/bg-pattern-top.svg") -45rem -40rem no-repeat, 
+    url("../public/images/bg-pattern-bottom.svg") 12rem 12rem no-repeat, hsl(185, 75%, 39%);
+}
+
+@media screen and (min-width: 750px) {
+
+body {
+  background: url("../public/images/bg-pattern-top.svg") -40rem -30rem no-repeat, 
+    url("../public/images/bg-pattern-bottom.svg") 10rem 22rem no-repeat, hsl(185, 75%, 39%);
+}
+
+}
+
+@media screen and (min-width: 770px) {
+
+body {
+  background: url("../public/images/bg-pattern-top.svg") -15rem -30rem no-repeat, 
+    url("../public/images/bg-pattern-bottom.svg") 45rem 22rem no-repeat, hsl(185, 75%, 39%);
+}
+
+}

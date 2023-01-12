@@ -1,0 +1,11 @@
+.stat_container {
+  text-align: center;
+}
+
+.stat_count {
+  font-weight: 700;
+}
+
+.stat_title {
+  font-size: 0.8rem;
+}

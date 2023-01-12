@@ -1,0 +1,16 @@
+.userdetails {
+  margin-top: 5rem;
+  text-align: center;
+}
+
+.username {
+  font-weight: 700;
+  color: hsl(229, 23%, 23%);
+}
+
+.location{
+  margin: 0.5rem 0;
+  margin-bottom: 1.4rem;
+}
+
+
